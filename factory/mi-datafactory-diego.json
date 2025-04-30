@@ -1,0 +1,9 @@
+{
+	"name": "mi-datafactory-diego",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b411ccc-28e6-4639-b54b-3c867bbf2e3d",
+		"tenantId": "bfa1162c-58b7-46c1-9f08-99866adba2b5"
+	}
+}
